@@ -1,0 +1,6 @@
+<br />
+<font size='1'><table class='xdebug-error xe-warning' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Warning: file_get_contents(http://localhost/sistema2/view/vendas/comprovanteVendaPdf.php?idvenda=1): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\wamp64\www\VIPAX_2.0\procedimentos\vendas\criarComprovantePdf.php on line <i>12</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='le
